@@ -6,16 +6,24 @@ Atualmente estou construindo uma base sólida em Python e desenvolvimento de sof
 
 ## 🚀 Projetos
 
+### Desenvolvimento
+
 * To-Do List com persistência de dados em JSON
 * Sistema de Login em Python
 * Cadastro de Usuários
 
+### Cybersegurança
+
+* Desafio Kali Medusa
+* Simulação educacional de ransomware e keylogger em ambiente controlado
+
 ## 🎯 Objetivos
 
-* Aprimorar minhas habilidades em programação
-* Construir projetos cada vez mais completos
-* Aprofundar meus conhecimentos em Cybersegurança
+* Evoluir minhas habilidades em programação Python
+* Construir uma base sólida em desenvolvimento de software
+* Seguir carreira na área de Cybersegurança
 * Desenvolver competências voltadas para Pentest e Segurança Web
+
 
 ## 📫 Contato
 
