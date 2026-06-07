@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Luan 👋
 
-<!--
-**LuanCarlozZ/LuanCarlozZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de programação e entusiasta de Cybersegurança, utilizando o GitHub para documentar minha evolução através de projetos práticos e estudos contínuos.
 
-Here are some ideas to get you started:
+Atualmente estou construindo uma base sólida em Python e desenvolvimento de software, com o objetivo de seguir carreira na área de Cybersegurança, especialmente como Pentester.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+
+* To-Do List com persistência de dados em JSON
+* Sistema de Login em Python
+* Cadastro de Usuários
+
+## 🎯 Objetivos
+
+* Aprimorar minhas habilidades em programação
+* Construir projetos cada vez mais completos
+* Aprofundar meus conhecimentos em Cybersegurança
+* Desenvolver competências voltadas para Pentest e Segurança Web
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/luan-carlos-8395051ba/
